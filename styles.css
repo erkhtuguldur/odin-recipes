@@ -1,0 +1,41 @@
+.headers {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(138, 14, 127);
+
+}
+*{
+   border: 2px solid red; 
+    background-color: rgb(252, 225, 174);
+}
+body{
+    padding: 8px;
+}
+.head-main{
+    font-size: 200px;
+    text-align: center;
+}
+.main-title{
+    font-size: 80px;
+    text-align: center;
+}
+img{
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: 10px auto;
+}
+.links {
+    display: inline-block;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: lighter;
+    color:blueviolet ;
+    font-size: 50px;
+    margin: 10px ;
+}
+li,p{
+    font-size: 40px;
+    margin: 10px;
+}
+h3 {
+    font-size: 60px;
+}
